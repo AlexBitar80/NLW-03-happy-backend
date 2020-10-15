@@ -20,6 +20,10 @@
   </a>
 </p>
 
+<h1 align="center">
+  <a href="https://insomnia.rest/run/?label=NLW_03_backend&uri=https%3A%2F%2Fgithub.com%2FAlexBitar80%2FNLW-03-happy-backend%2Fblob%2Fmaster%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</h1>
+
 <p align="center">
   <a href="#rocket-como-rodar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-tecnologias-usadas-neste-projeto">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
